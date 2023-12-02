@@ -13,7 +13,7 @@ Ayrıca Aktivite Ve Hatırlatıcı Ekleye Bilirsiniz Ve Hatırlatıcılar Günü
 # Lisans Sayfası
 ![Lisans](https://github.com/amirafshar2/CRMProject/assets/152279280/d7ad423c-1cb8-4e52-9a80-4f8f41f01188)
 
- Bilgisayar Kodunuza Tıklayarak Kopyalayın Ve Bana İletin (amirafshar1@outlook.com)
+ Bilgisayar Kodunuza Tıklayarak Kopyalayın Ve Bana İletin (amir_afshar1@outlook.com)
 Lisansınızı Size Göndereceğım ,Daha sonra ilk Kulanaıcınızı Admin Olarak Oluşturun .
 # İlk Hesap Oluştuma Sayfası
 ![İlk kulanıcı](https://github.com/amirafshar2/CRMProject/assets/152279280/d589feca-a82b-4417-b212-c368e65c0359)
@@ -63,7 +63,7 @@ Ve Bildirimler Belilenen Tarihte Ana Sayfada Bu Şekilde Görünür
 Henuz Geliştirme Aşamasında
 
 Sorularınız Ve Önerileriniz İçin  İletişime GeçeBilirsiniz : 
-# E-mail    : amirafshar1@outlook.com
+# E-mail    : amir_afshar1@outlook.com
 # Linkedin  : https://www.linkedin.com/in/amir-afshar-83a26a2a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 # İnstagram : https://instagram.com/amir_afshar______?igshid=MmVlMjlkMTBhMg==
 # Whatsapp  : https://wa.me/qr/7TQ5M5ULCOEMG1
