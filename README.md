@@ -11,28 +11,33 @@ Ayrıca Aktivite Ve Hatırlatıcı Ekleye Bilirsiniz Ve Hatırlatıcılar Günü
 Çalıştırmak İçin Sql Server Yüklü Olamalı , Migration Alarak Database Oluşturun , Program Dosyalarında (SQL Process) Dosyasının İçerisindeki Processleri SQL manegment de Execute Alın , Şimdi Program Çalışmaya Hazır .
 
 # Lisans Sayfası
-![Lisans](https://github.com/amirafshar2/CRMProject/assets/152279280/d7ad423c-1cb8-4e52-9a80-4f8f41f01188)
+![1](https://github.com/amirafshar2/CRMProject/assets/152279280/621beb18-8a20-42f3-9677-18a49db8b662)
 
  Bilgisayar Kodunuza Tıklayarak Kopyalayın Ve Bana İletin (amir_afshar1@outlook.com)
 Lisansınızı Size Göndereceğım ,Daha sonra ilk Kulanaıcınızı Admin Olarak Oluşturun .
 # İlk Hesap Oluştuma Sayfası
-![İlk kulanıcı](https://github.com/amirafshar2/CRMProject/assets/152279280/d589feca-a82b-4417-b212-c368e65c0359)
+![2](https://github.com/amirafshar2/CRMProject/assets/152279280/74cce8a4-b6b6-4ccf-a94a-fd95283bf734)
+
 
 
  Kulanıcı Adı Ve Şifrenizi Girerek Giriş YapaBilirsiniz 
 # Giriş Sayfası
-![login](https://github.com/amirafshar2/CRMProject/assets/152279280/7271089f-176c-4586-8f5a-3c97917a7f48)
+![3](https://github.com/amirafshar2/CRMProject/assets/152279280/b469d5ee-0163-4e28-82da-6cc448e66222)
+
 
 
 # Ana Sayfa
-![main](https://github.com/amirafshar2/CRMProject/assets/152279280/a8473462-7f5e-48c0-a778-ce7d407851f1)
+![4](https://github.com/amirafshar2/CRMProject/assets/152279280/0d57475d-0913-4641-890e-90929953755f)
+
 
 # Kulanıcı Sayfası
 İlk Başta Yeni Bir Rol Oluşturun 
-![kulanıcı](https://github.com/amirafshar2/CRMProject/assets/152279280/7e298a3a-2fea-43b9-b1de-6bf4ad6a398a)
+![6](https://github.com/amirafshar2/CRMProject/assets/152279280/f47cb091-2bf1-4586-813a-6a09eca92216)
+
+
 
 Sonra Yeni Kulanıcıyı Ekleyın . Sİlme Ve Düzenleme İşlemide Yapılabilir
-![kulanıcı3](https://github.com/amirafshar2/CRMProject/assets/152279280/8166c085-2fce-4942-ad0a-3554856f7f6c)
+![5](https://github.com/amirafshar2/CRMProject/assets/152279280/5ec5e99d-759d-44f3-a796-b30d3eee2285)
 
 # Müşteri Sayfası
 Ekleme , Sİlme ve Düzenleme İşlemide Yapılabilir
@@ -56,9 +61,9 @@ Sepete Gidin Ve Sipariş Oluşturun Ve Faturayı Çıktı  Alabilirsiniz
 Hatırlatıcıda Seçtiğiniz Kulalnıcıya Göre Görev Verebilirsiniz . Ve Günü Geldiğinde Sadece O Kulanıcıya Bildirim Gidecektir 
 ![Hatırlatıcı](https://github.com/amirafshar2/CRMProject/assets/152279280/8c62b3c3-df64-43bb-96f7-ef45b9ced6ed)
 
-Ve Bildirimler Belilenen Tarihte Ana Sayfada Bu Şekilde Görünür 
-![main Hatırlatıcı](https://github.com/amirafshar2/CRMProject/assets/152279280/366d41d9-e269-4e97-9240-071c07b7edec)
-![hatılatıcı yapıldımı](https://github.com/amirafshar2/CRMProject/assets/152279280/3d191767-b8be-4bb9-b2ed-8c33c9f8fb89)
+Ve Bildirimler Belirlenen Tarihte Ana Sayfada Bu Şekilde Görünür 
+![13](https://github.com/amirafshar2/CRMProject/assets/152279280/6b633c55-e37b-48f9-8326-2775a14cd193)
+![14](https://github.com/amirafshar2/CRMProject/assets/152279280/cffd42ad-93c5-49a8-bf40-9773ebb8804b)
 
 Henuz Geliştirme Aşamasında
 
