@@ -63,7 +63,7 @@ namespace çağdaşcivata
             userlogin = w.userlogin;
             false_controls();
             label6.Text = bll.Activitypics();
-            pictureBox1.Image = Image.FromFile(Path.Combine(System.Windows.Forms.Application.StartupPath, "image", "Back.png"));
+           
         }
 
         #region copy

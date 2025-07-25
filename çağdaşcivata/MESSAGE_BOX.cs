@@ -25,7 +25,7 @@ namespace çağdaşcivata
                 m.label3.ForeColor = Color.White;
                 m.label2.Text = Message;
                 m.label3.Text = Eror;
-                m.pictureBox1.Image = Image.FromFile(Path.Combine(System.Windows.Forms.Application.StartupPath, "image", "icons8-info-500.png"));
+              
 
                 if (Butone == Button.yesorno)
                 {
@@ -54,7 +54,7 @@ namespace çağdaşcivata
                 m.label1.Text = Title;
                 m.label2.Text = Message;
                 m.label3.Text = Eror;
-                m.pictureBox1.Image = Image.FromFile(Path.Combine(System.Windows.Forms.Application.StartupPath, "image", "icons8-warning-100.png")); 
+          
                 if (Butone == Button.yesorno)
                 {
                     m.label4.Text = "Evet";

@@ -1,5 +1,6 @@
 ﻿using BE;
 using BLL;
+using FoxLearn;
 using FoxLearn.License;
 using System;
 using System.Collections.Generic;
@@ -265,12 +266,7 @@ namespace çağdaşcivata
 
                 }
             }
-            else
-            {
-                message.Show("Bilgi", "Program Aktivleştirilmedi, Firma ile iletişime Geçin", "", Button.ok, Logo.info);
-            }
         }
-
         private void ticker5(object sender, EventArgs e)
         {
             panel1.Visible = false;
@@ -317,7 +313,7 @@ namespace çağdaşcivata
             t1.Interval = 60;
             t1.Tick += timertick1;
             t1.Start();
-            label22.Text = ComputerInfo.GetComputerId();
+            label22.Text = FoxLearn.License.ComputerInfo.GetComputerId();
             timer2.Stop();
         }
 
@@ -400,5 +396,20 @@ namespace çağdaşcivata
             }
         }
         #endregion
+
+        private void label21_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label7_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

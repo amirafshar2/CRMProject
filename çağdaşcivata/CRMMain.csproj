@@ -61,7 +61,7 @@
       <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
     </Reference>
     <Reference Include="FoxLearn.License">
-      <HintPath>..\packages\LicenseKey\LicenseKey\bin\Debug\FoxLearn.License.dll</HintPath>
+      <HintPath>..\..\..\..\OneDrive\Desktop\LicenseKey\LicenseKey\bin\Debug\FoxLearn.License.dll</HintPath>
     </Reference>
     <Reference Include="HandyControl, Version=3.4.0.0, Culture=neutral, PublicKeyToken=45be8712787a1e5b, processorArchitecture=MSIL">
       <HintPath>..\packages\HandyControls.3.4.5\lib\net472\HandyControl.dll</HintPath>
@@ -74,7 +74,9 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\..\..\..\Program Files (x86)\Stimulsoft Designer 2019.4.2\Designers\.NET\Stimulsoft.Report.Win.dll</HintPath>
     </Reference>
-    <Reference Include="System" />
+    <Reference Include="System">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.dll</HintPath>
+    </Reference>
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Data" />
     <Reference Include="System.Drawing" />
@@ -369,6 +371,9 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="image\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="sql procedures und lıcance\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

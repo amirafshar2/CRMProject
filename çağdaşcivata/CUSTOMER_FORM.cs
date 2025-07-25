@@ -62,7 +62,7 @@ namespace çağdaşcivata
             MainWindow w = (MainWindow)System.Windows.Application.Current.Windows.OfType<System.Windows.Window>().FirstOrDefault();
             userlogin = w.userlogin;
             label6.Text = BLL.CustomerPics();
-            pictureBox1.Image = Image.FromFile(Path.Combine(System.Windows.Forms.Application.StartupPath, "image", "Back.png"));
+           
         }
         #region copy
         CUSTOMER_BLL BLL = new CUSTOMER_BLL();
